@@ -1,0 +1,21 @@
+.contact-form {
+    background-color: lightgray;
+    width: 100%;
+    text-align: -webkit-center;
+}
+.send {
+    background-color: aquamarine;
+    width: 100%;
+    text-align: -webkit-center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.send a:link {
+    color: black;
+    text-decoration: none;
+}
+#last {
+    text-align: -webkit-center;
+    width: 100%;
+    display: inline-block;
+}
